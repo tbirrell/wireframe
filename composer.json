@@ -1,0 +1,7 @@
+{
+    "name": "tbirrell/wireframe",
+    "require": {
+        "mikecao/flight": "^1.3",
+        "vlucas/phpdotenv": "^2.4"
+    }
+}
